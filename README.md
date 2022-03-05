@@ -11,23 +11,23 @@
 ## Реплика 1 (ENCFF305XOA)
 | |  |
 |-----------------------|-------------------------|
-| ![alt text](./img/xoa/basic_stat.png)   |       ![alt text](./img/xoa/Per%20base%20sequence%20quality.png)     |
-| ![alt text](./img/xoa/Per%20tile%20sequence%20quality.png) Качество прочтений очень хорошее, все в зеленой зоне и даже не сильно падает к концу рида|    ![alt text](./img/xoa/Per%20sequence%20GC%20content.png)      |
-| ![alt text](./img/xoa/Adapter%20Content.png)   |        ![alt text](./img/xoa/Per%20base%20sequence%20content.png)     |
+| ![alt text](./img/xoa/basic_stat.png)   |       ![alt text](./img/xoa/Per%20base%20sequence%20quality.png)  Качество прочтений очень хорошее, все в зеленой зоне и даже не сильно падает к концу рида   |
+| ![alt text](./img/xoa/Per%20tile%20sequence%20quality.png) |    ![alt text](./img/xoa/Per%20sequence%20GC%20content.png)      |
+| ![alt text](./img/xoa/Adapter%20Content.png)  Лишних адаптеров нет |        ![alt text](./img/xoa/Per%20base%20sequence%20content.png)     |
 
 ## Реплика 2 (ENCFF191LBR)
 | |  |
 |-----------------------|-------------------------|
-| ![alt text](./img/lbr/basic_stat.png)   |       ![alt text](./img/lbr/Per%20base%20sequence%20quality.png)     |
+| ![alt text](./img/lbr/basic_stat.png)   |       ![alt text](./img/lbr/Per%20base%20sequence%20quality.png)   Все в зеленой зоне  |
 | ![alt text](./img/lbr/Per%20tile%20sequence%20quality.png)  |    ![alt text](./img/lbr/Per%20sequence%20GC%20content.png)      |
-| ![alt text](./img/lbr/Adapter%20Content.png)   |        ![alt text](./img/lbr/Per%20base%20sequence%20content.png)     |
+| ![alt text](./img/lbr/Adapter%20Content.png)   Лишних адаптеров нет |        ![alt text](./img/lbr/Per%20base%20sequence%20content.png)     |
 ## Контроль (ENCFF679UAT)
 Потребовалось подрезание чтений
 | |  |
 |-----------------------|-------------------------|
 | ![alt text](./img/uat/basic_stat.png)   |       ![alt text](./img/uat/Per%20base%20sequence%20quality.png)     |
 | ![alt text](./img/uat/Per%20tile%20sequence%20quality.png)  |    ![alt text](./img/uat/Per%20sequence%20GC%20content.png)      |
-| ![alt text](./img/uat/Adapter%20Content.png)   |        ![alt text](./img/uat/Per%20base%20sequence%20content.png)     |
+| ![alt text](./img/uat/Adapter%20Content.png)  Лишних адаптеров нет  |        ![alt text](./img/uat/Per%20base%20sequence%20content.png)     |
 
 #Таблица со статистикой по выравниванию на 14 хромосому
 
@@ -38,5 +38,7 @@
 | ENCFF679UAT   |  45762504   |  2087866 (4.56%)   |  6736644 (14.72%)   |   36937994 (80.72%)   |
 
 # Диаграммы Эйлера-Венна
-
-![alt text](./img/Intervene_venn1.pdf)
+| |  |
+|-----------------------|-------------------------|
+| ![alt text](./img/v1.png)   |   ![alt text](./img/v2.png)    |
+| ![alt text](./img/v3.png) |    ![alt text](./img/v4.png)   |
