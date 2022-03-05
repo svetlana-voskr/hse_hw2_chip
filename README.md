@@ -16,8 +16,17 @@
 | ![alt text](./img/xoa/Adapter%20Content.png)   |        ![alt text](./img/xoa/Per%20base%20sequence%20content.png)     |
 
 ## Реплика 2 (ENCFF191LBR)
-
+| |  |
+|-----------------------|-------------------------|
+| ![alt text](./img/lbr/basic_stat.png)   |       ![alt text](./img/lbr/Per%20base%20sequence%20quality.png)     |
+| ![alt text](./img/lbr/Per%20tile%20sequence%20quality.png)  |    ![alt text](./img/lbr/Per%20sequence%20GC%20content.png)      |
+| ![alt text](./img/lbr/Adapter%20Content.png)   |        ![alt text](./img/lbr/Per%20base%20sequence%20content.png)     |
 ## Контроль (ENCFF679UAT)
+| |  |
+|-----------------------|-------------------------|
+| ![alt text](./img/uat/basic_stat.png)   |       ![alt text](./img/uat/Per%20base%20sequence%20quality.png)     |
+| ![alt text](./img/uat/Per%20tile%20sequence%20quality.png)  |    ![alt text](./img/uat/Per%20sequence%20GC%20content.png)      |
+| ![alt text](./img/uat/Adapter%20Content.png)   |        ![alt text](./img/uat/Per%20base%20sequence%20content.png)     |
 
 #Таблица со статистикой по выравниванию на 14 хромосому
 
