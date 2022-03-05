@@ -12,7 +12,7 @@
 | |  |
 |-----------------------|-------------------------|
 | ![alt text](./img/xoa/basic_stat.png)   |       ![alt text](./img/xoa/Per%20base%20sequence%20quality.png)     |
-| ![alt text](./img/xoa/Per%20tile%20sequence%20quality.png)  |    ![alt text](./img/xoa/Per%20sequence%20GC%20content.png)      |
+| ![alt text](./img/xoa/Per%20tile%20sequence%20quality.png) Качество прочтений очень хорошее, все в зеленой зоне и даже не сильно падает к концу рида|    ![alt text](./img/xoa/Per%20sequence%20GC%20content.png)      |
 | ![alt text](./img/xoa/Adapter%20Content.png)   |        ![alt text](./img/xoa/Per%20base%20sequence%20content.png)     |
 
 ## Реплика 2 (ENCFF191LBR)
@@ -22,6 +22,7 @@
 | ![alt text](./img/lbr/Per%20tile%20sequence%20quality.png)  |    ![alt text](./img/lbr/Per%20sequence%20GC%20content.png)      |
 | ![alt text](./img/lbr/Adapter%20Content.png)   |        ![alt text](./img/lbr/Per%20base%20sequence%20content.png)     |
 ## Контроль (ENCFF679UAT)
+Потребовалось подрезание чтений
 | |  |
 |-----------------------|-------------------------|
 | ![alt text](./img/uat/basic_stat.png)   |       ![alt text](./img/uat/Per%20base%20sequence%20quality.png)     |
