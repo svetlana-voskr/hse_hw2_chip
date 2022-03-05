@@ -9,6 +9,10 @@
 Все файлы представлены в папке [reports](./reports)
 
 ## Реплика 1 (ENCFF305XOA)
+|----|-------------|
+| ![alt text](./img/xoa/basic_stat.png)   |       ![alt text](./img/xoa/Per base sequence quality.png)     |
+| ![alt text](./img/xoa/Per tile sequence quality.png)  |    ![alt text](./img/xoa/Per sequence GC content.png)      |
+| ![alt text](./img/xoa/Adapter Content.png)   |        ![alt text](./img/xoa/Per base sequence content.png)     |
 
 ## Реплика 2 (ENCFF191LBR)
 
