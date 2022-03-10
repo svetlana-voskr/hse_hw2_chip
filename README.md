@@ -25,7 +25,13 @@
 | ![alt text](./img/lbr/Per%20tile%20sequence%20quality.png)  |    ![alt text](./img/lbr/Per%20sequence%20GC%20content.png)      |
 | ![alt text](./img/lbr/Adapter%20Content.png)   Лишних адаптеров нет |        ![alt text](./img/lbr/Per%20base%20sequence%20content.png)     |
 ## Контроль (ENCFF679UAT)
-Потребовалось подрезание чтений
+| |  |
+|-----------------------|-------------------------|
+| ![alt text](./img/uat_before/basic_stat.png)   |       ![alt text](./img/uat_before/Per%20base%20sequence%20quality.png)   Есть значения на границе зеленой зоны  |
+| ![alt text](./img/uat_before/Per%20tile%20sequence%20quality.png)  Видим, что в некоторых участках наблюдается сильное отклонение от среднего качества|    ![alt text](./img/uat_before/Per%20sequence%20GC%20content.png)      |
+| ![alt text](./img/uat_before/Adapter%20Content.png)  Лишних адаптеров нет  |        ![alt text](./img/uat_before/Per%20base%20sequence%20content.png)     |
+
+Требуется подрезание чтений
 | |  |
 |-----------------------|-------------------------|
 | ![alt text](./img/uat/basic_stat.png)   |       ![alt text](./img/uat/Per%20base%20sequence%20quality.png)     |
